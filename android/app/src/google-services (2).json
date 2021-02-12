@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472602017692",
+    "project_id": "nadmha-a4314",
+    "storage_bucket": "nadmha-a4314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472602017692:android:ca476340c1d9dfb2619259",
+        "android_client_info": {
+          "package_name": "com.norah.events_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472602017692-q7bptqgh6rvtfr1gfaj7tbec9j45902q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_JlM0rWPnEyA_a5lf6bJd-NsmhCsVEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472602017692-q7bptqgh6rvtfr1gfaj7tbec9j45902q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
